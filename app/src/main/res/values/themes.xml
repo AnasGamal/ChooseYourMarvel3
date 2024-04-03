@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RandomPet" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/red</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        <item name="colorSecondary">@color/red</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/red</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+        <item name="colorTertiary">@color/red</item>
+        <item name="colorOnTertiary">@color/white</item>
+        <item name="colorTertiaryContainer">@color/red</item>
+        <item name="colorOnTertiaryContainer">@color/white</item>
+        <item name="colorError">@color/red</item>
+        <item name="colorErrorContainer">@color/red</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="colorOnErrorContainer">@color/white</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="colorOnBackground">@color/red</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/red</item>
+        <item name="colorSurfaceVariant">@color/red</item>
+        <item name="colorOnSurfaceVariant">@color/white</item>
+        <item name="colorOutline">@color/red</item>
+        <item name="colorOnSurfaceInverse">@color/white</item>
+        <item name="colorSurfaceInverse">@color/red</item>
+        <item name="colorPrimaryInverse">@color/white</item>
+    </style>
+    <style name="TextAppearance" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textColor">#073b4c</item>
+        <item name="android:fontFamily">Montserrat</item>
+    </style>
+</resources>
