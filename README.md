@@ -1,16 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: Anas Aly
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Summary
 
-Choose Your Marvel 2 is an android app that displays a scrollable list of characters from the Marvel's official API
+Choose Your Marvel 3 is an android app that p that displays a scrollable list of characters from the Marvel's official API.
 
-If I had to describe this project in three (3) emojis, they would be: 🦸‍♂️👀💻
+If I had to describe this project in three (3) emojis, they would be: 🦸‍♂️💻💜
 
 ## Application Features
 
@@ -18,15 +18,16 @@ If I had to describe this project in three (3) emojis, they would be: 🦸‍♂
 
 The following REQUIRED features are completed:
 
-- [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Implement a RecyclerView to display a list of entries from the API
-- [x] Display at least three (3) pieces of data for each RecyclerView item
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
 The following EXTRA features are implemented:
 
@@ -35,9 +36,10 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-<img src='https://github.com/AnasGamal/ChooseYourMarvel2/blob/main/Kapture%202024-04-01%20at%2019.19.14.gif?raw=true' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with Kap
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+
+GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -63,4 +65,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-# ChooseYourMarvel3
